@@ -1,0 +1,20 @@
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\bin\Debug\Attendance System Project.exe.config
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\bin\Debug\Attendance System Project.exe
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\bin\Debug\Attendance System Project.pdb
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.Forms.FormLogin.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.Properties.Resources.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance System Project.csproj.GenerateResource.cache
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance System Project.csproj.CoreCompileInputs.cache
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance System Project.exe
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance System Project.pdb
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\bin\Debug\Attendance.dll
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance System Project.csproj.CopyComplete
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.Forms.FormForgotPassword.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.Forms.FormMain.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.User_Control.UserControlDashboard.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.User_Control.UserControlAddClass.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.User_Control.UserControlAddStudent.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.User_Control.UserControlRegister.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.User_Control.UserControlReport.resources
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance System Project.csproj.AssemblyReference.cache
+C:\Users\STA Laptop\source\repos\Attendance System Project\Attendance System Project\obj\Debug\Attendance_System_Project.PAL.User_Control.UserControlAttendance.resources
